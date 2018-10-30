@@ -16,7 +16,7 @@ We would be happy to see your contribution to the list. The steps for contributi
 
 Well the list of things that you can contribute are as follows:
 
-1. Improve this README. Maybe add items here.
+1. Improve this README. Maybe you can add items here.
 2. Add description about itmes mentioned on the list. Preferably provide a download link..
 3. Add a link on tutorial on how to make the software work.
 4. Add alternatives for a software on different operating systems.
